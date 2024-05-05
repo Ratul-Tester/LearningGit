@@ -1,0 +1,12 @@
+Hi There Again....
+In this part we will clone our code from repo to local...
+What we need to do ?
+We need to traverse backward and create a empty directory..
+1. cd .. ---> Will back one step, do it until you reach the drive.
+2. mkdir GitLearning ---> Create a new folder GitLearning.
+3. cd gitlearning ---> Will open and go inside the folder.
+4. git clone https://github.com/Ratul-Tester/LearningGit.git ---> Will clone everything from repo to local.
+5. ls ---> To check the clonned items in new folder i.e., GitLearning
+After doing these all you can create new files inside the new folder and push it again to the repo....
+
+

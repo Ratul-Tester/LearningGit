@@ -1,0 +1,11 @@
+Hi There....
+Welcome All....
+In this part we will learn commands to use for :-
+adding a file, making commit's, remote add origin, pushing the code to github....
+1. git add LearningGit.txt ---> To add a particular file into stage.
+2. git add . ---> To add all files into the stage.
+3. git commit -m "message/info" ---> To commit a file with message into the stage.
+4. git remote add orgin <<Path of git repository>> ---> To add the path, where we are going to push.
+5. git branch -M main ---> To redirect the main branch to git hub.
+6. git push -u origin main ---> To push the code into github.
+

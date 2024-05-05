@@ -1,0 +1,25 @@
+Hi Everyone
+This is me Ratul...
+Below are some git commands which I have used...
+Initially we need to setup, so i have used below commands...
+1. git ---> Shows all commands
+2. git config ---> Shows all configuration commands
+3. git config --global user.name "Ratul-Tester"
+4. git config --global user.email "ratul.tester@gmail.com"
+5. git config --list ---> Shows the configured user name and email.
+6. mkdir LearningGit ---> Creating a directory named LearningGit.
+7. ls ---> Shows all unhidden items present inside a folder/directory.
+8. ls -a ---> Shows all the hidden items present inside a folder/directory.
+9. cd LearningGit ---> OPens the directory named LearningGit.
+10. git init ---> To initialize empty git repository inside a foldern/directory.
+11. cd .. ---> To get one step back.
+12. git status ---> To show the status of process.
+13. touch filename.txt ---> To create a text file.
+14. nano filename.txt ---> To create and edit a text file.
+    -----In that text window to save the file....
+ctrl+s ----will work
+         OR
+ctrl+o ----will work
+    -----To exit from that window...
+ctrl+x ----will work
+

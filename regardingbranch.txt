@@ -1,0 +1,10 @@
+Hi There,
+Here we will learn some git codes regarding creating a Branch...
+Switching to a Branch....
+fetching and pushing items into newly created branch from local to repo...
+After creating a branch we need to do the following:-
+1. git fetch ---> To fetch all the items.
+2. git branch -a ---> To see all the branches.
+3. git checkout -b feature1 ---> To switch into a new branch named feature1, which is present locally.
+4. git push --set-upstream origin feature1
+
